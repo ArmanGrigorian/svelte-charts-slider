@@ -1,0 +1,9 @@
+export { default as Miscellaneous } from './components/reusable/Miscellaneous.svelte';
+export { default as Total } from './components/reusable/Total.svelte';
+export { default as SlideOne } from './components/slideOne/SlideOne.svelte';
+export { default as SlideOneChart } from './components/slideOne/SlideOneChart.svelte';
+export { default as Slider } from './components/slider/Slider.svelte';
+export { default as SlideThree } from './components/slideThree/SlideThree.svelte';
+export { default as SlideThreeChart } from './components/slideThree/SlideThreeChart.svelte';
+export { default as SlideTwo } from './components/slideTwo/SlideTwo.svelte';
+export { default as SlideTwoChart } from './components/slideTwo/SlideTwoChart.svelte';
